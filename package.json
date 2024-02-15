@@ -1,0 +1,22 @@
+{
+  "name": "ingco-monorepo",
+  "version": "1.0.0",
+  "description": "b2b shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lifuss/ingco-monorepo.git"
+  },
+  "author": "Arsen Hryhoriak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lifuss/ingco-monorepo/issues"
+  },
+  "homepage": "https://github.com/Lifuss/ingco-monorepo#readme"
+}
